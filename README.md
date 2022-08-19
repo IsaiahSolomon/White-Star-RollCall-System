@@ -17,12 +17,14 @@ Currently the rollcall command supports 3 sign-ups.  WS1 WS2 and a Fun Run.
 
 1. On your discord server you will need the following Role setup, you don't need Admin for this bot setup.
 <br>
+
 ![Image of Server Channels](/images/server_roles.PNG)
 
 2. Then on Discord you will need to setup your channels somthing like the following.
 <br>
+
 ![Image of Server Channels](/images/server_channels.PNG)
-<br>
+
 
 3. The #ws-lounge and #sign-ups are the most important.
 <br>The other categories like WS 1, WS 2, Fun Run are used with the roles allowed to only see those channels.  
@@ -30,13 +32,15 @@ Currently the rollcall command supports 3 sign-ups.  WS1 WS2 and a Fun Run.
 
 4. Copy the channel IDs and the role IDs to the setup.go config area at the top.
 <br>
+
 ![Image of Server Channels](/images/setup.PNG)
-<br>
+
 
 5. You will now need to configure the commands on the YAG website for your discord server.  The custom commands should look something like the following there:
 <br>
+
 ![Image of Server Channels](/images/ws_cc.PNG)
-<br>
+
 
 6. Now run the setup commands:
 <br>
